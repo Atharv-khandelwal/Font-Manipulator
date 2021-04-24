@@ -1,0 +1,31 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 18px gray;
+}
+
+.Note{
+    font-size: 15px;
+    color: black;
+}
+
+.copyRightFooter{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid wheat;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+body{
+    background: url('th.jpg');
+background-size: cover;
+}
